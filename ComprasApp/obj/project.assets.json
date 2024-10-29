@@ -5523,11 +5523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\curso\\ComprasApp\\ComprasApp\\ComprasApp.csproj",
+      "projectUniqueName": "C:\\curso\\ComprasApp\\repo3\\ComprasApp\\ComprasApp.csproj",
       "projectName": "ComprasApp",
-      "projectPath": "C:\\curso\\ComprasApp\\ComprasApp\\ComprasApp.csproj",
+      "projectPath": "C:\\curso\\ComprasApp\\repo3\\ComprasApp\\ComprasApp.csproj",
       "packagesPath": "C:\\Users\\curso\\.nuget\\packages\\",
-      "outputPath": "C:\\curso\\ComprasApp\\ComprasApp\\obj\\",
+      "outputPath": "C:\\curso\\ComprasApp\\repo3\\ComprasApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\curso\\AppData\\Roaming\\NuGet\\NuGet.Config",

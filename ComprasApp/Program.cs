@@ -64,7 +64,7 @@ class Program
     {
         using (var context = new ComprasDbContext())
         {
-            Console.Write("Ingrese el nombre del producto: ");
+            Console.Write("Ingrese el nombre del producto:ccccccc ");
             var nombre = Console.ReadLine();
             Console.Write("Ingrese la descripción del producto: ");
             var descripcion = Console.ReadLine();
