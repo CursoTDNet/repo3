@@ -1,0 +1,7 @@
+cmd
+
+c:> mkdir ComprasApp
+c:> cd ComprasApp
+
+
+https://chatgpt.com/c/67158e2c-239c-8009-8fba-8e2e3e6e5cde
